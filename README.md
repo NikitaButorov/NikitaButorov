@@ -1,4 +1,4 @@
-Hi 👋 My name is Nikita <img src="ee.png" width="30px">
+Hi 👋 My name is Nikita <img src="flag.png" width="30px">
 =======================
 
 ### :man_technologist: About me:
