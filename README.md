@@ -1,10 +1,11 @@
-Hi 👋 My name is Nikita
+Hi 👋 My name is Nikita <img src="ee.png" width="30px">
 =======================
 
-About me
---------
+### :man_technologist: About me:
 
-* 🌍  I'm based in Estonia,Narva
+I am beginer back-end python developer. I am third year student in Ida-Viru vocation traning center studying a software development course. I am learning python and REST API, but In the near future I would like to study Data Science. 
+
+
 
 ### Skills
 
