@@ -3,7 +3,7 @@ Hi 👋 My name is Nikita <img src="flag  .png" width="30px">
 
 ### :man_technologist: About me:
 
-I am beginer back-end python developer. I am third year student in Ida-Viru vocation traning center studying a software development course. I am learning python and REST API, but In the near future I would like to study Data Science. 
+I am beginer Data analatic developer. I am third year student in Ida-Viru vocation traning center studying a software development course. Now studying pandas,matplotlib and data visualization tools. 
 
 
 
